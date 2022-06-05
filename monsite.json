@@ -13,9 +13,6 @@
 		},
 		{
 			"menu": "Home"
-		},
-		{
-			"menu": "Home"
 		}
 	],
 	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
@@ -40,5 +37,6 @@
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
-	]
+	],
+	"profile": "https://www.instagram.com/username/"
 }
