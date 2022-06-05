@@ -1,6 +1,6 @@
 {
 	"hue": 20,
-	"isMode": false,
+	"isMode": true,
 	"min_count": "1",
 	"max_count": 3,
 	"logo": "https://bulma.io/images/bulma-logo.png",
@@ -9,7 +9,7 @@
 			"menu": "Home"
 		},
 		{
-			"menu": "Home"
+			"menu": "Team"
 		}
 	],
 	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
