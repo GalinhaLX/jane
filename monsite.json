@@ -1,5 +1,5 @@
 {
-	"hue": 301,
+	"hue": 20,
 	"isMode": false,
 	"min_count": "1",
 	"max_count": 3,
@@ -17,31 +17,6 @@
 	"product_subtitle": "Commencez à vendre vos produits dès à présent",
 	"product_card": [
 		{
-			"product_card_title": "aaaaaa",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
-		{
-			"product_card_title": "No programming",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
-		{
-			"product_card_title": "No programming",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
-		{
-			"product_card_title": "No programming",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
-		{
-			"product_card_title": "No programming",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
-		{
 			"product_card_title": "No programming",
 			"product_card_subtitle": "A child can use it!",
 			"product_action": "Explore"
@@ -55,29 +30,10 @@
 			"team_member_name": "John DOE",
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		},
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		},
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
 	"social": [
-		{
-			"profile": "https://www.instagram.com/username/"
-		},
-		{
-			"profile": "https://www.twitter.com/username/"
-		},
-		{
-			"profile": "https://www.instagram.com/username/"
-		}
-	]
+		{}
+	],
+	"data_pane": "team"
 }
