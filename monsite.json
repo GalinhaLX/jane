@@ -2,15 +2,9 @@
 	"hue": "20",
 	"isMode": false,
 	"min_count": "1",
-	"max_count": 4,
+	"max_count": 3,
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
-		},
 		{
 			"menu": "Home"
 		}
@@ -37,6 +31,5 @@
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
-	],
-	"profile": "https://www.instagram.com/username/"
+	]
 }
